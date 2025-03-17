@@ -1,0 +1,8 @@
+prefix=/home/zkk666/demo02_ws/install
+
+Name: hellovscode
+Description: Description of hellovscode
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
